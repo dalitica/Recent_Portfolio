@@ -9,9 +9,10 @@ Dalitica is a team of dedicated professionals with expertise in data analysis, v
 Our Projects
 Here, you'll find a collection of our open-source projects, showcasing our commitment to excellence in data analytics. Whether you're a data enthusiast, a fellow developer, or a business professional seeking insights, our repository has something for you. Our projects cover a wide range of topics, including:
 
-Excel Models
-Power BI Dashboards
-SQL Scripts
+- Excel Models
+- Power BI Dashboards
+- Custom Dashboard videos
+- SQL Scripts
 
 Stay connected with us for the latest updates, tutorials, and best practices in the world of data analytics and visualization.
 
