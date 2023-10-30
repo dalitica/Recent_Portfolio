@@ -1,4 +1,4 @@
-# Shared-Projects
+# Portfolio
 👋 Welcome to Dalitica's GitHub Repository Profile!
 
 At Dalitica, we're passionate about data-driven insights and leveraging the power of Excel, Power BI, and SQL to unlock the full potential of your business data. Our GitHub repository is your gateway to exploring the projects and tools we've developed to transform raw data into actionable intelligence.
